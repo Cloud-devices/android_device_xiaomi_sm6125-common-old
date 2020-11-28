@@ -345,6 +345,7 @@ PRODUCT_PACKAGES += \
 
 # OMX
 PRODUCT_PACKAGES += \
+    libavservices_minijail \
     libavservices_minijail_vendor \
     libc2dcolorconvert \
     libextmedia_jni \
